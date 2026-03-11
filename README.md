@@ -28,11 +28,11 @@ https://graphviz.org/download/
 
 El repositorio incluye varios archivos .txt con números que pueden utilizarse para cargar datos al árbol:
 
-* numeros_basicos.txt
-* numeros_grandes.txt
-* numeros_desbalanceados.txt
-* numeros_random.txt
-* prueba.txt
+* ejemplo 1
+* ejemplo 2
+* ejemplo 3
+* ejemplo 4
+* ejemplo 5
 
 Cada archivo contiene un número por línea, el cual será insertado en el árbol binario de búsqueda.
 
